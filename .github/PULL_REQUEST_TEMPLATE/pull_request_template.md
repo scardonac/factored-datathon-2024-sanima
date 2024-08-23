@@ -1,11 +1,18 @@
-## PR Summary
+## Description
+Briefly describe the changes proposed in this PR.
 
+## Type of change
+- [ ] Bugfix
+- [ ] New feature
+- [ ] Enhancement of existing features
+- [ ] Code refactor
+- [ ] Documentation
 
+## How has this been tested?
+Describe how you have tested these changes.
 
-## Code Review Checklist
-- [ ] check new libraries and/or dependencies are on requirements.txt
-- [ ] Changes in models have migrations associated
-- [ ] soft code style check
-- [ ] imports order (3rd party on top, our stuff below)
-- [ ] check possible performance/idiomatic refactoring (+ good practices)
-- [ ] verify authentication/authorization is being taken care of
+## Checklist:
+- [ ] I have followed the project’s style guidelines.
+- [ ] I have performed a self-review of the code.
+- [ ] I have documented my changes.
+- [ ] New or existing tests pass locally.
